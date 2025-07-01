@@ -13,7 +13,8 @@ alwaysApply: true
 
 - GitHub Repository: https://github.com/AnthonyBaek/itscope-pmo-app-01-fe.git
 
-- 매번 Git 관련 작업 시, Git Log를 ./logs에 날짜 단위로 남김
+- 매번 Git 관련 작업 시, Git Log를 ./logs에 날짜 단위로 마크다운 형식으로 남김
    - 최신 로그가 아래쪽으로 오도록 작성
+
 
    - 날짜가 넘어갈 경우 새로운 md 파일 생성
